@@ -1,0 +1,14 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "a simple twitter bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Gulik",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
